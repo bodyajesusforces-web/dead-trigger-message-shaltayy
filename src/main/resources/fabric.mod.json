@@ -19,9 +19,10 @@
   "mixins": [
     "modid.mixins.json"
   ],
-  "depends": {
+ "depends": {
     "fabricloader": ">=0.15.0",
-    "minecraft": "*",
+    "minecraft": ">=1.21",
     "java": ">=21"
+  }
   }
 }
